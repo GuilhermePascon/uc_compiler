@@ -1,0 +1,9 @@
+README.md
+.github
+.gitignore
+.isort.cfg
+setup.sh
+docker-compose.yaml
+Dockerfile
+tests
+uc
